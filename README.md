@@ -22,7 +22,7 @@ The **Advanced News Classifier** is a Java-based project developed as part of th
 - **Object-Oriented Programming**: Designed modular and reusable classes following Java OOP principles.
 - **File I/O and Data Parsing**: Implemented efficient file reading and data parsing techniques for processing GloVe embeddings and news datasets.
 - **Text Preprocessing**: Applied advanced NLP techniques such as lemmatization using CoreNLP and stop-word filtering.
-- **Machine Learning Integration**: Gained experience using Deeplearning4J and NDArray4J for building and training neural networks.
+- **Machine Learning Integration**: Gained experience using Deeplearning4J and ND4J for building and training neural networks.
 - **Performance Optimization**: Focused on optimizing the execution time of critical tasks, such as embedding generation and data processing.
 
 ---
